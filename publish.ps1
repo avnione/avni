@@ -1,4 +1,4 @@
-# Puts the current promoted AVNI Phone APK on https://sehgalautoriders.github.io/avni/ (GitHub release, asset AVNI-Phone.apk).
+# Puts the current promoted AVNI Phone APK on https://avnione.github.io/avni/ (GitHub release, asset AVNI-Phone.apk).
 # Ravi 02-10-2026: "keep uploading any updates there". Runs from the scheduled task "\AVNI\AVNI Phone Download Page" in the
 # DAY window (06:30-22:30) only. It never builds, promotes, versions or installs anything (Directive 0015): it only copies
 # what AVNI Sentinel already promoted, after checking the file's sha256 against the canonical provenance.
